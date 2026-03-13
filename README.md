@@ -38,9 +38,9 @@ The course combines **algorithm design, computational biology, and data analysis
 CSCI175/
 │
 ├── activities/                        # In-class Activities
-├── homework_assignments/              # Homework Assignments
-├── programming_assignments/           # Programming Assignments
-├── CSCI175_Textbook.pdf               # Course Textbook
+├── homework assignments/              # Homework Assignments
+├── programming assignments/           # Programming Assignments
+├── CSCI175 Textbook.pdf               # Course Textbook
 └── README.md                          # Repository Documentation
 ```
 
